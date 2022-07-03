@@ -1,0 +1,32 @@
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.AssemblyReference.cache
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\a.de.souza.fernandes\Downloads\ASPNETCore20-5fc8ba0d3a47d8344c2bac9a32edfbe177b35a9d\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.genruntimeconfig.cache
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.AssemblyReference.cache
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\CasaDoCodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.genruntimeconfig.cache
