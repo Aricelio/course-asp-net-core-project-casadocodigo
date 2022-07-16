@@ -58,7 +58,7 @@ namespace CasaDoCodigo
             });
 
             serviceProvider
-                .GetService<DataService>().InicializaDB();                
+                .GetService<IDataService>().InicializaDB();                
         }
     }
 }

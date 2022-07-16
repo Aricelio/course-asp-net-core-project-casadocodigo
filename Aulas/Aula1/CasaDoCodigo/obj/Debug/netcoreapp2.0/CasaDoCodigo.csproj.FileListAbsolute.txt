@@ -46,3 +46,4 @@ C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Part
 C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\course-asp-net-core-project-casadocodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
 C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\course-asp-net-core-project-casadocodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
 C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\course-asp-net-core-project-casadocodigo\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.genruntimeconfig.cache
+C:\Users\a.de.souza.fernandes\OneDrive - Avanade\Courses\Alura\ASP.NET Core Parte 1\course-asp-net-core-project-casadocodigo\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\livros.json
