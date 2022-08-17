@@ -44,6 +44,8 @@ namespace CasaDoCodigo.Repositories
             {
                 itemPedido = new ItemPedido(pedido, produto, 1, produto.Preco);
                 contexto.Set<ItemPedido>().Add(itemPedido);
+
+                contexto.SaveChanges();
             }
         }
 
@@ -62,6 +64,8 @@ namespace CasaDoCodigo.Repositories
                 pedido = new Pedido();
                 dbSet.Add(pedido);
                 contexto.SaveChanges();
+
+                // Grava o id pedido na sessão do navegador
                 SetPedidoId(pedido.Id);
             }
 
