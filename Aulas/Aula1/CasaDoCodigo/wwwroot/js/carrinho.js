@@ -12,6 +12,11 @@ class Carrinho {
         this.postQuantidade(data);
     }
 
+    updateQuantidade(input) {
+        let data = this.getData(input);
+        this.postQuantidade(data);
+    }
+
     getData(elemento) {
         var linhaItem = $(elemento).parents('[item-id]');
         var itemId = $(linhaItem).attr('item-id');

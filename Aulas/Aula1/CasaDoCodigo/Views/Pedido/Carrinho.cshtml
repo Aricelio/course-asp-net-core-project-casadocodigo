@@ -38,13 +38,17 @@
                 <div class="col-md-2 text-center">R$ @(item.Produto.Preco)</div>
                 <div class="col-md-2 text-center">
                     <div class="input-group">
+
                         <span class="input-group-btn">
                             <button class="btn btn-default" onclick="carrinho.clickDecremento(this)">
                                 <span class="glyphicon-minus"></span>
                             </button>
                         </span>
-                        <input type="text" value="@(item.Quantidade)"
-                               class="form-control text-center" />
+
+                        <input type="text" value="@(item.Quantidade)" 
+                               class="form-control text-center" 
+                               onblur="carrinho.updateQuantidade(this)"/>
+
                         <span class="input-group-btn">
                             <button class="btn btn-default" onclick="carrinho.clickIncremento(this)">
                                 <span class="glyphicon-plus"></span>
