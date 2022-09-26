@@ -1,13 +1,13 @@
 ﻿
 class Carrinho {
-    clickIncremento(btn) {
-        let data = this.getData(btn);
+    clickIncremento(button) {
+        let data = this.getData(button);
         data.Quantidade++;
         this.postQuantidade(data);
     }
 
-    clickDecremento(btn) {
-        let data = this.getData(btn);
+    clickDecremento(button) {
+        let data = this.getData(button);
         data.Quantidade--;
         this.postQuantidade(data);
     }
@@ -20,11 +20,11 @@ class Carrinho {
     getData(elemento) {
         var linhaItem = $(elemento).parents('[item-id]');
         var itemId = $(linhaItem).attr('item-id');
-        var novaQtde = $(linhaItem).find('input').val();
+        var novaQuantidade = $(linhaItem).find('input').val();
 
         return {
             Id: itemId,
-            Quantidade: novaQtde
+            Quantidade: novaQuantidade
         };
     }
 
@@ -57,8 +57,6 @@ class Carrinho {
             if (itemPedido.quantidade == 0) {
                 linhaDoItem.remove();
             }
-
-            //debugger;
         });
     }
 }
