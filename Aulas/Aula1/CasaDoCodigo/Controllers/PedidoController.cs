@@ -53,6 +53,7 @@ namespace CasaDoCodigo.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Resumo(Cadastro cadastro)
         {
             Pedido pedido = pedidoRepository.UpdateCadastro(cadastro);
